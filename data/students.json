@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Tasnim Akhter",
+        "email": "tasnim@gmail.com",
+        "phone": "09090909904",
+        "status": "Graduated",
+        "id": "6966ea4ac3157"
+    },
+    {
+        "name": "Rahim",
+        "email": "354msgi@ysho.v",
+        "phone": "03546347989",
+        "status": "Active",
+        "id": "6966eac1735c7"
+    },
+    {
+        "name": "Abid",
+        "email": "rt@f",
+        "phone": "0899908909",
+        "status": "Inactive",
+        "id": "6966eb0d4c697"
+    },
+    {
+        "name": "Mahmodul Hasan Sakib",
+        "email": "sakibuddessho89@gmail.com",
+        "phone": "+8801540347261",
+        "status": "Active",
+        "id": "6966eb3090b39"
+    },
+    {
+        "name": "ragis",
+        "email": "faf@gajk.com",
+        "phone": "8926849962",
+        "status": "On Leave",
+        "id": "6966eb6817819"
+    }
+]
